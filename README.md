@@ -4,7 +4,7 @@ Vibe coded website summarizer using free models from Groq. Built with OpenCode c
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:wanderingeek/website-summarizer-vc.git
 cd website-summarizer-vc
 
 # uv sync creates/uses the .venv automatically; activation is only needed for the python run
